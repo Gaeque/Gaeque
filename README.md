@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<p align="left">Sim, Meu nome realmente é "Gaeque", sou um desenvolvedor junior em busca de uma primeira oportunidade para mostrar o quão capaz eu sou.<br>Sou uma pessoa calma, tranquila, determinado e tenho foco em resultados, sou um bom lider, tenho ótima comunicação e sou capaz de trabalhar em equipe de qualquer tamanho.<br>Meu hobbie atualmente é estudar e praticar exercicios físicos, gosto de fazer trilhas e pedalar com minha bicicleta.</p>
+<p align="left">Sim, Meu nome realmente é "Gaeque", sou um Desenvolvedor Junior em busca de uma primeira oportunidade para mostrar o quão capaz eu sou.<br>Sou uma pessoa calma, tranquila, determinado e tenho foco em resultados, sou um bom lider, tenho ótima comunicação e sou capaz de trabalhar em equipe de qualquer tamanho.<br>Meu hobbie atualmente é estudar e praticar exercicios físicos, gosto de fazer trilhas e pedalar com minha bicicleta.</p>
 
 ###
 
