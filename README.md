@@ -2,36 +2,39 @@
 
 ###
 
-<p align="left">Eu sou Gaeque! Um apaixonado estudante de Programação aqui no Brasil.</p>
-
-###
-
-<br clear="both">
-
-<p align="left">🟣 Atualmente estou estudando ADS na faculdade e C# através de cursos por conta própria.</p>
-
-###
-
-<br clear="both">
-
-<p align="left">🟣 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como Desenvolvedor.</p>
-
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">Sim, Meu nome realmente é "Gaeque", sou um Desenvolvedor Junior em busca de uma primeira oportunidade para mostrar o quão capaz eu sou.<br>Sou uma pessoa calma, tranquila, determinado e tenho foco em resultados, sou um bom lider, tenho ótima comunicação e sou capaz de trabalhar em equipe de qualquer tamanho.<br>Meu hobbie atualmente é estudar e praticar exercicios físicos, gosto de fazer trilhas e pedalar com minha bicicleta.</p>
+<h2 align="left">Quem é "Gaeque"?</h2>
 
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/gaeque/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  /></a>
-  <a href="https://www.linkedin.com/in/gaeque-luan-145604248/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaeque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaeque&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<br clear="both">
+
+<p align="left">🟣Desenvolvedor .NET e Estudante de Análise e Desenvolvimento de Sistemas.</p>
+
+###
+
+<br clear="both">
+
+<p align="left">Olá, Me chamo Gaeque Luan, Minha história com tecnologia começa aos meus 9 anos quando ganhei meu primeiro computador, aos 10 anos eu já estava fazendo manutenções em computadores da vizinhança, meu primeiro emprego envolvendo tecnologia foi aos 14 anos, onde eu administrava uma LAN House, Desde então, a paixão pela tecnologia só aumentou.<br><br>Sou um Desenvolvedor C# habilidoso, com amplo conhecimento em tecnologias essenciais para o desenvolvimento de aplicativos web e sistemas de banco de dados. Possuo habilidades sólidas em ASP.NET, ASP.NET Core Web API, Entity Framework e SQL Server, permitindo-me criar soluções eficazes e escaláveis para diversas necessidades de negócios. <br>        Além disso, tenho proficiência em JavaScript, HTML e CSS, o que me capacita a desenvolver interfaces de usuário interativas e responsivas, proporcionando uma experiência de usuário aprimorada.</p>
+
+###
+
+<br clear="both">
+
+<p align="left">🟣 Estou em busca da minha primeira oportunidade de como Dev.</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+</div>
 
 ###
 
@@ -49,6 +52,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
@@ -65,6 +70,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Gaeque/count.svg?"  />
 </div>
 
 ###
