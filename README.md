@@ -19,12 +19,6 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">🟣 Estou em busca da minha primeira oportunidade de como Dev.</p>
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/gaeque/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
