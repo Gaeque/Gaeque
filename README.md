@@ -15,7 +15,8 @@
 
 <br clear="both">
 
-<p align="left">Olá, Me chamo Gaeque Luan, Minha história com tecnologia começa aos meus 9 anos quando ganhei meu primeiro computador, aos 10 anos eu já estava fazendo manutenções em computadores da vizinhança, meu primeiro emprego envolvendo tecnologia foi aos 14 anos, onde eu administrava uma LAN House, Desde então, a paixão pela tecnologia só aumentou.<br><br>Sou um Desenvolvedor C# habilidoso, com amplo conhecimento em tecnologias essenciais para o desenvolvimento de aplicativos web e sistemas de banco de dados. Possuo habilidades sólidas em ASP.NET, ASP.NET Core Web API, Entity Framework e SQL Server, permitindo-me criar soluções eficazes e escaláveis para diversas necessidades de negócios. <br>        Além disso, tenho proficiência em JavaScript, HTML e CSS, o que me capacita a desenvolver interfaces de usuário interativas e responsivas, proporcionando uma experiência de usuário aprimorada.</p>
+<p align="left">Desenvolvedor Full Stack apto por resolver problemas e criar soluções eficientes para negócios. Com experiência em desenvolvimento de software utilizando tecnologias como .NET, C#, React Native, TypeScript, SQL. <br>  Principais Tecnologias: <br> ▪️ .NET | C# <br> ▪️ React Native | TypeScript
+</p>
 
 ###
 
