@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<p align="left">Desenvolvedor Full Stack apto por resolver problemas e criar soluções eficientes para negócios. Com experiência em desenvolvimento de software utilizando tecnologias como .NET, C#, React Native, TypeScript, SQL. <br>  Principais Tecnologias: <br> ▪️ .NET | C# <br> ▪️ React Native | TypeScript
+<p align="left">Desenvolvedor Full Stack apto por resolver problemas e criar soluções eficientes para negócios. Com experiência em desenvolvimento de software utilizando tecnologias como .NET, C#, React Native, TypeScript, SQL. <br>  <br> ▪️ .NET | C# <br> ▪️ React Native | TypeScript
 </p>
 
 ###
