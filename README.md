@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<p align="left">🟣Desenvolvedor .NET</p>
+<p align="left">🟣Desenvolvedor Full Stack - Java | C# | React e React Native</p>
 
 ###
 
