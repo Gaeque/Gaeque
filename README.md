@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<p align="left">Desenvolvedor Full Stack apto por resolver problemas e criar soluções eficientes para negócios. Com experiência em desenvolvimento de software utilizando tecnologias como .NET, C#, React Native, TypeScript, SQL. 
+<p align="left">Desenvolvedor de software em uma empresa multinacional portuária, com experiência em desenvolvimento de aplicações mobile com React Native e aplicações backend em JAVA. Focado, comprometido e com forte senso de organização, preço por soluções claras e eficientes. Busco sempre aprimorar minhas habilidades e contribuir para o sucesso dos projetos em que estou trabalhando atualmente. 
  <br>
   <br> ▪️ Java
  <br> ▪️ .NET | C# <br> ▪️
