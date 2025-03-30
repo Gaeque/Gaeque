@@ -17,7 +17,7 @@
 
 <p align="left">Desenvolvedor Full Stack apto por resolver problemas e criar soluções eficientes para negócios. Com experiência em desenvolvimento de software utilizando tecnologias como .NET, C#, React Native, TypeScript, SQL. 
  <br>
-  <br> ▪️ Java <br> ▪️
+  <br> ▪️ Java
  <br> ▪️ .NET | C# <br> ▪️
  React Native | TypeScript  <br> ▪️ 
  SQL Server | Oracle  <br> 
