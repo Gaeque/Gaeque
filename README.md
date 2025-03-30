@@ -15,8 +15,15 @@
 
 <br clear="both">
 
-<p align="left">Desenvolvedor Full Stack apto por resolver problemas e criar soluções eficientes para negócios. Com experiência em desenvolvimento de software utilizando tecnologias como .NET, C#, React Native, TypeScript, SQL. <br>  <br> ▪️ .NET | C# <br> ▪️ React Native | TypeScript  <br> ▪️ SQL Server | Oracle  <br> ▪️ Docker
- <br> ▪️ Swagger | Postman
+<p align="left">Desenvolvedor Full Stack apto por resolver problemas e criar soluções eficientes para negócios. Com experiência em desenvolvimento de software utilizando tecnologias como .NET, C#, React Native, TypeScript, SQL. 
+ <br>
+  <br> ▪️ Java <br> ▪️
+ <br> ▪️ .NET | C# <br> ▪️
+ React Native | TypeScript  <br> ▪️ 
+ SQL Server | Oracle  <br> 
+ ▪️ Docker
+ <br> ▪️
+ Swagger | Postman
   <br>  ▪️ xUnit | Testes Unitários
  <br>  <br> Tenho me dedicado à construção de sistemas robustos e interfaces intuitivas que melhoram a operação de empresas. Atualmente, atuo como estagiário de TI na TECON Suape, desenvolvendo aplicativos móveis e contribuindo para a eficiência dos sistemas portuários.
 </p>
