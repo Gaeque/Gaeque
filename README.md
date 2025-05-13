@@ -11,6 +11,11 @@
 
 <p align="left">🟣Desenvolvedor Full Stack - Java | C# | React e React Native</p>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeque&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"  />
+</div>
+
 ###
 
 <br clear="both">
