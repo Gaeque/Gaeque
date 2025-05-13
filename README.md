@@ -11,8 +11,6 @@
 
 <p align="left">🟣Desenvolvedor Full Stack - Java | C# | React e React Native</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <br clear="both">
