@@ -11,14 +11,13 @@
 
 <p align="left">🟣Desenvolvedor Full Stack - Java | C# | React e React Native</p>
 
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaeque&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <p align="left">Desenvolvedor de software em uma empresa multinacional portuária, com experiência em desenvolvimento de aplicações mobile com React Native e aplicações backend em JAVA. Focado, comprometido e com forte senso de organização, preço por soluções claras e eficientes. Busco sempre aprimorar minhas habilidades e contribuir para o sucesso dos projetos em que estou trabalhando atualmente. 
  <br>
