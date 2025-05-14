@@ -1,4 +1,4 @@
-<h1 align="left">🟣Desenvolvedor Full Stack - Java | C# | React e React Native</h1>
+<h1 align="left">🟣Desenvolvedor Full Stack - Java | React e React Native</h1>
 
 ###
 
