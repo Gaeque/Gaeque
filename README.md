@@ -1,15 +1,4 @@
-<h1 align="center">Hey 🤙</h1>
-
-###
-
-<h2 align="left">Quem é "Gaeque"?</h2>
-
-###
-
-
-<br clear="both">
-
-<p align="left">🟣Desenvolvedor Full Stack - Java | C# | React e React Native</p>
+<h1 align="left">🟣Desenvolvedor Full Stack - Java | C# | React e React Native</h1>
 
 ###
 
