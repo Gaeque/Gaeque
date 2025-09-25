@@ -8,17 +8,16 @@
 
 ###
 
-<p align="left">Desenvolvedor de software em uma empresa multinacional portuária, com experiência em desenvolvimento de aplicações mobile com React Native e aplicações backend em JAVA. Focado, comprometido e com forte senso de organização, preço por soluções claras e eficientes. Busco sempre aprimorar minhas habilidades e contribuir para o sucesso dos projetos em que estou trabalhando atualmente. 
- <br>
-  <br> ▪️ Java
- <br> ▪️ .NET | C# <br> ▪️
- React Native | TypeScript  <br> ▪️ 
- SQL Server | Oracle  <br> 
- ▪️ Docker
- <br> ▪️
- Swagger | Postman
-  <br>  ▪️ xUnit | Testes Unitários
- <br>  <br> Tenho me dedicado à construção de sistemas robustos e interfaces intuitivas que melhoram a operação de empresas. Atualmente, atuo como estagiário de TI na TECON Suape, desenvolvendo aplicativos móveis e contribuindo para a eficiência dos sistemas portuários.
+<p align="left">Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web e mobile, atuando em todas as camadas da solução – do backend ao frontend. Tenho foco em criar soluções escaláveis, bem estruturadas e de fácil manutenção, sempre atento à qualidade do código e à experiência do usuário.
+
+🔹 Tecnologias e ferramentas que domino:
+
+Java, Spring Boot, Microservices, APIs REST
+Angular, React Native, React, TypeScript
+PostgreSQL, SQL, Oracle
+Docker, Git
+
+Estou sempre em busca de novos aprendizados, acompanhando tendências de tecnologia e aplicando metodologias ágeis no dia a dia de desenvolvimento.
 </p>
 
 ###
